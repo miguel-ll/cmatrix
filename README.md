@@ -17,7 +17,7 @@ You can just run `make`.
 
 ## Usage
 
-    fakesteak [OPTIONS...]
+    cmatrix [OPTIONS...]
 
 Options:
 
